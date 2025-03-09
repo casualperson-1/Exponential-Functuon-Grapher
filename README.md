@@ -10,11 +10,17 @@ These instructions will get you a copy of the project up and running on your loc
 
 You'll need to have Python installed along with these libraries: SymPy, Numpy, Matplotlib. If they aren't already installed, you can add them using pip
 
-#### How to put in equation (standard form)
+#### Installation steps:
+Download VS Code or similar
+Install Python if not already installed
+edit the equation in line 7
+Open vertex finder.py and run it
+
+##### How to put in equation (standard form)
 x**2 is x squared
 2*x is 2x and so on
 Only standard form supported as of right now.
-##### License
+###### License
 
 MIT License
 
